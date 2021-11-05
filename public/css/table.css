@@ -1,0 +1,40 @@
+body{
+    font-family: 'Helvetica';
+}
+table{
+    border-collapse: collapse;
+    font-size: 10px;
+}
+
+.titulo_td{
+    border: 2px solid #000;
+}
+th{		
+    background: #e0e0e0 ;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;	
+    
+}
+
+.empleados td{
+    min-width: 50px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 3px;
+    padding-right: 3px;
+    font-size: 12px;
+}
+.titulo_grupo{
+    text-align: center;
+    font-weight: bold;
+}
+.color_1{
+    background: #8bc34a7d;
+}
+.color_2{
+    background: #ffeb3b7d;
+}
+.color_3{
+    background: #03a9f457;
+}
